@@ -4,5 +4,5 @@ def funcion_upper(value):
 
 
 def funcion_title(value):
-    '''Функция делает первую букву заглавной'''
+    '''Функция делает первую букву заглавной!'''
     return value.title()
